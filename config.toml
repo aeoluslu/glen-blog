@@ -1,0 +1,64 @@
+BaseURL = "https://aeoluslu.github.io/"
+LanguageCode = "zh-CN"
+HasCJKLanguage = true
+Title = "Glen's blog"
+Theme = "hugo-pacman-theme"
+pygmentsStyle = "default"
+pygmentsUseClasses = true
+
+[Author]
+  Name = "Glen"
+
+[outputs]
+  home = [ "RSS", "HTML" ]
+    
+[outputFormats] 
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "feed"
+
+[Params]
+  AuthorHomepage = "https://aeoluslu.github.io/"
+  BottomIntroduce = "Introduce1 <br/> Introduce2"
+  Description = ""
+  Subtitle = ""
+  Weibo = "coderzh"
+  WeiboID = 1816308191
+  Twitter = "coderzh"
+  GitHub = "coderzh"
+  Facebook = "coderzh"
+  LinkIn = "coderzh"
+  Imglogo = "img/logo.svg"
+  AuthorImg = "img/author.jpg"
+  DateFormat = "2006年01月02日"
+  MonthFormat = "2006年01月"
+  FancyBox = true
+  CreativeCommons = true
+
+  [Params.GoogleAnalytics]
+    ID = "UA-10147768-2"
+
+  [Params.Disqus]
+    ShortName = "Glen"
+
+  [Params.Strings]
+    Search = "搜索"
+    PageNotFound = "頁面不存在"
+    ShowSideBar = "顯示側邊攔"
+    HideSideBar = "隱藏側邊攔"
+    Categories = "分類"
+    Archive = "歸檔"
+    Tags = "標籤"
+    TagCloud = "標籤雲"
+    Rss = "RSS 訂閱"
+    TableOfContents = "文章目錄"
+
+[Menu]
+  [[Menu.Main]]
+    Name = "首頁"
+    URL = "/"
+    Weight = 1
+  [[Menu.Main]]
+    Name = "關於"
+    URL = "/about"
+    Weight = 2
