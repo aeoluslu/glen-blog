@@ -5,7 +5,7 @@ categories = ["技術文章"]
 tags = ["Book", "Bar"]
 toc = true
 author = "Glen"
-author_homepage =  "http://blog.coderzh.com/post/"
+
 
 +++
 ## 導論 洞察未見的需求

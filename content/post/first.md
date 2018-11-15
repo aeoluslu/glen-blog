@@ -1,7 +1,7 @@
 +++
 date = "2016-03-20T12:13:19+08:00"
 title = "first"
-categories = ["技術文章"]
+categories = ["測試用"]
 tags = ["Foo", "Bar"]
 toc = true
 author = "Glen"
