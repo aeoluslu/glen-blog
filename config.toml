@@ -19,15 +19,15 @@ pygmentsUseClasses = true
 
 [Params]
   AuthorHomepage = "https://aeoluslu.github.io/"
-  BottomIntroduce = "Introduce1 <br/> Introduce2"
+  BottomIntroduce = "Glen blog <br/>"
   Description = ""
   Subtitle = ""
-  Weibo = "coderzh"
+  Weibo = "aeoluslu"
   WeiboID = 1816308191
-  Twitter = "coderzh"
-  GitHub = "coderzh"
-  Facebook = "coderzh"
-  LinkIn = "coderzh"
+  Twitter = "aeoluslu"
+  GitHub = "aeoluslu"
+  Facebook = "aeoluslu"
+  LinkIn = "aeoluslu"
   Imglogo = "img/logo.svg"
   AuthorImg = "img/author.jpg"
   DateFormat = "2006年01月02日"
